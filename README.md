@@ -5,6 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis-cleber" alt="luis-cleber" /></a> </p>
 
+👨‍💻 Sobre Mim
+
+Olá! Sou [Seu Nome], e minha paixão pela tecnologia começou de forma humilde: resolvendo problemas tecnológicos para familiares e amigos. Essas experiências iniciais acenderam uma chama em mim, levando-me a buscar uma educação formal na área. Na faculdade, essa chama se tornou uma certeza: eu queria construir minha carreira em torno da tecnologia.
+
+🎓 Educação e Crescimento
+
+Durante meus estudos universitários, mergulhei profundamente em programação, redes e sistemas de informação. Cada desafio enfrentado e cada problema resolvido reforçaram minha decisão de trabalhar com tecnologia.
+
+💼 Objetivos Profissionais
+
+Agora, como um profissional aspirante, estou ansioso para aplicar meu conhecimento prático e teórico em um ambiente de trabalho dinâmico. Estou particularmente interessado em desenvolvimento web, onde posso continuar a transformar problemas cotidianos em soluções inovadoras através do código.
+
+🔍 Procurando Oportunidades
+
+Estou sempre em busca de oportunidades para crescer, aprender e contribuir. Se você está procurando alguém com uma base sólida em tecnologia e uma paixão por resolver problemas, vamos conversar!
 - 🌱 Estou aprendendo atualmente **HTML,CSS,JavaScript, React**
 
 - 👯 Estou procurando colaborar em **Desenvolvimento Web**
