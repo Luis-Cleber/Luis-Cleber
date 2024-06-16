@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, seja bem vindo!</h1>
+<h1 align="center">Oi 👋, sejam bem vindo!</h1>
 <h4 align="center">Sou apaixonado por transformar ideias em realidade com código. Atualmente, estou estudando programação web e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-cleber&label=Profile%20views&color=0e75b6&style=flat" alt="luis-cleber" /> </p>
