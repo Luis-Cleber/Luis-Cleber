@@ -7,7 +7,7 @@
 
 <h3> 👨‍💻 Sobre Mim</h3>
 
-Olá! Sou Luis Cleber, tenho 32 anos, minha paixão pela tecnologia começou de forma humilde: resolvendo problemas tecnológicos para familiares e amigos. Essas experiências iniciais acenderam uma chama em mim, levando-me a buscar uma educação formal na área. Na faculdade, essa chama se tornou uma certeza: eu queria construir minha carreira em torno da tecnologia.
+Olá! Sou Luis Cleber, tenho 33 anos, minha paixão pela tecnologia começou de forma humilde: resolvendo problemas tecnológicos para familiares e amigos. Essas experiências iniciais acenderam uma chama em mim, levando-me a buscar uma educação formal na área. Na faculdade, essa chama se tornou uma certeza: eu queria construir minha carreira em torno da tecnologia.
 
 <h3> 🎓 Educação e Crescimento</h3>
 
