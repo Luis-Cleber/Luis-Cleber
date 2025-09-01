@@ -1,4 +1,5 @@
 <h1 align="center">Oi 👋, sejam bem vindo!</h1>
+
 <!--<h4 align="center">Sou apaixonado por transformar ideias em realidade com código. Atualmente, estou estudando programação web e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-cleber&label=Profile%20views&color=0e75b6&style=flat" alt="luis-cleber" /> </p>
@@ -52,6 +53,12 @@ Estou sempre em busca de oportunidades para crescer, aprender e contribuir. Se v
   
   </p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-cleber&show_icons=true&locale=en" alt="luis-cleber" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis-cleber&" alt="luis-cleber" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-cleber&show_icons=true&locale=en&layout=compact" alt="luis-cleber" /></p>
+<h2 align="center" class="heading-element" dir="auto"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🔥 Sequência de Contribuições</font></font></h2>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis-cleber&theme=dracula" alt="luis-cleber" /></p>
+<p align="center">&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=luis-cleber&theme=dracula&show_icons=true&locale=en" alt="luis-cleber" /></p>
+
+<!--<p align="center" > <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis-cleber&theme=dracula" /> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-cleber&theme=dracula&show_icons=true&locale=en&layout=compact" alt="luis-cleber" /> </p>
+
+
